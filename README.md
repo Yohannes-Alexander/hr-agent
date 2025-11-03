@@ -14,6 +14,7 @@ Aplikasi ini memanfaatkan **Gemini API (Google Generative Language API)** untuk 
 ---
 
 ## 📂 Struktur Proyek
+```
 HRChatAgent/
 │
 ├── src/
@@ -33,7 +34,7 @@ HRChatAgent/
 │
 ├── pom.xml → Konfigurasi Maven
 └── README.md
-
+```
 
 
 ---
