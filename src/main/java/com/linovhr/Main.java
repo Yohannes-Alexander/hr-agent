@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        String apiKey = "AIzaSyA-UPgg90KizHiCWMHt5zqJQ1NvOIleHto"; // ganti dengan API key kamu
+        String apiKey = "GEMINI"; // ganti dengan API key kamu
 
         HRFunctions hr = new RealHRFunctions();
         GeminiService gemini = new GeminiService(apiKey);
