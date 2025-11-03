@@ -1,0 +1,9 @@
+id_review,id_karyawan,id_reviewer,tanggal_review,skor_performa,status_review
+PR01,101,103,6/20/2025,4,Selesai
+PR02,102,103,6/21/2025,5,Selesai
+PR03,107,103,6/20/2025,4,Selesai
+PR04,101,103,12/15/2025,0,Terjadwal
+PR05,109,108,9/30/2025,0,Terjadwal
+PR76,103,102,2025-05-16,0,Terjadwal
+PR48,102,103,2025-11-07,0,Terjadwal
+PR57,101,103,2025-11-03,0,Terjadwal
